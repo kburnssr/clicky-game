@@ -14,6 +14,7 @@ img {
 .imageContainer{
   width:800px;
   box-sizing: border-box;
+  margin: 0 auto;
 }
 
 .App-header {

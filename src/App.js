@@ -1,19 +1,6 @@
 import './App.css';
 
 import rdata from "./data.json";
-//alt
-  // import a from './images/a.webp'
-  // import b from './images/b.webp'
-  // import c from './images/c.jpg'
-  // import d from './images/d.jpg'
-  // import e from './images/e.jpg'
-  // import f from './images/f.jpg'
-  // import g from './images/g.webp'
-  // import h from './images/h.jpg'
-  // import i from './images/i.jpeg'
-  // import j from './images/j.png'
-  // import k from './images/k.jpg'
-  // import l from './images/l.webp'
 
 import React, { Component } from 'react';
 import logo from './logo.svg';

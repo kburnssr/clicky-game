@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "/images/a.webp",
+    "image": "/images/HomerSimpson.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/images/b.webp",
+    "image": "/images/BartSimpson.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/images/c.jpg",
+    "image": "/images/GrandpaSimpson.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/images/d.jpg",
+    "image": "/images/GroundsKeeperWillie.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/images/e.jpg",
+    "image": "/images/KrustyTheClown.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/images/f.jpg",
+    "image": "/images/LisaSimpson.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/images/g.webp",
+    "image": "/images/MargSimpson.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/images/h.jpg",
+    "image": "/images/MilhouseVanHouten.jpg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/images/i.jpeg",
+    "image": "/images/BarneyGrumble.jpg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/images/j.png",
+    "image": "/images/MoeSyzslak.jpg",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/images/k.jpg",
+    "image": "/images/MrBurns.jpg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/images/l.webp",
+    "image": "/images/NedFlanders.jpg",
     "clicked": false
   }
 ]
